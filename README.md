@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nidhi-1212
-- 👀 I’m interested in Software and Android development
+- 👀 I’m interested in Data Science and Statistics.
 - 🌱 I'm currently honing my DSA skills.
-- 🔭 I’m currently learning competitive coding and augmented reality.
+- 🔭 I’m currently learning competitive coding.
 - 📫 Reach me through linkedin..
      gmail-goswaminidhi833@gmail.com
      Link:- https://www.linkedin.com/in/nidhi-goswami-5b94a51b2
